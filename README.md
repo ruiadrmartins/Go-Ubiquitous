@@ -1,3 +1,13 @@
+To use this project, please add
+
+MyOpenWeatherMapApiKey="your-key"
+
+to the gradle.properties file
+
+Install the "app" project on the phone and the "sunshinewear" project on the watch, and make sure they are connected.
+
+ORIGINAL README:
+
 Advanced Android Sample App
 ===================================
 
